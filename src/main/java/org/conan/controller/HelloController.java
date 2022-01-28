@@ -20,7 +20,12 @@ public class HelloController {
     public void member() {
         log.info("hello world");
     }
-
+    
+    @GetMapping("/hi")
+    public void hi() {
+    	log.info("hi");
+    }
+    
     @GetMapping("/info")
     public void info() {
         log.info("hello info");
