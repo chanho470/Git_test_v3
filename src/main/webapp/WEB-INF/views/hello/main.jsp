@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello Main</h1>
+    <h1>Hello Main 충돌 발생시키기 위해 작성하였음</h1>
 </body>
 </html>
