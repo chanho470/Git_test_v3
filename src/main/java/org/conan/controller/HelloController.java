@@ -28,6 +28,10 @@ public class HelloController {
     
     @GetMapping("/info")
     public void info() {
+    	log.info("hello info 충돌 나라");
+    	
+    	
+    	
         log.info("hello info");
     }
 
